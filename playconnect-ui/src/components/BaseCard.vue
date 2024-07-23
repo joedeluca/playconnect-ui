@@ -1,6 +1,6 @@
 <template>
   <div
-    class="opacity-0 shadow-md fixed z-40 top-[80px] left-4 w-96 rounded-md bg-zinc-200 border border-zinc-600"
+    class="opacity-0 shadow-md fixed z-40 top-[80px] left-4 w-96 rounded-md bg-zinc-500 border border-zinc-600"
   >
     <div class="w-full border-b border-zinc-600">
       <div class="p-0 flex flex-row">
@@ -8,7 +8,7 @@
           v-focus
           type="text"
           placeholder="Search vehicles"
-          class="text-xl bg-zinc-200 focus:outline-none w-full p-3 border-0 rounded-t-md focus:text-zinc-100 focus:bg-zinc-700 pl-12"
+          class="text-xl bg-zinc-600 focus:outline-none w-full p-3 border-0 rounded-t-md focus:text-zinc-100 focus:bg-zinc-700 pl-12"
         />
       </div>
     </div>
